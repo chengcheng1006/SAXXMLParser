@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookshelf>
+<book>
+	<bookname name="thinking in java">Thinking in Java</bookname>
+	<author>Bruce Eckel</author>
+	<price>$74.99</price>
+	<ISBN-13>978-0131872486</ISBN-13>
+	<ISBN-10>0131872486</ISBN-10>
+</book>
+<book>
+	<bookname name="head-first java">Head-First Java</bookname>
+	<author>Bert Bates and Kathy Sierra</author>
+	<price>$44.95</price>
+	<ISBN-13>978-0596009205</ISBN-13>
+	<ISBN-10>0596009208</ISBN-10>
+</book>
+<book>
+	<bookname name="effective java">Effective Java</bookname>
+	<author>Joshua Bloch</author>
+	<price>$54.99</price>
+	<ISBN-13>978-0134685991</ISBN-13>
+	<ISBN-10>0134685997</ISBN-10>
+</book>
+</bookshelf>
+	
